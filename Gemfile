@@ -37,5 +37,5 @@ group :development, :test do
 end
 
 # Your ruby version may be different!
-ruby '2.1.2'
+# ruby '2.1.2'
 
